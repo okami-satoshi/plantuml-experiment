@@ -1,3 +1,13 @@
+---
+name: aaaa template
+about: 'Use this template to streamline information you track about large projects and user stories. '
+title: ''
+labels: epic
+assignees: after12am
+reviewers: after12am
+
+---
+
 THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONLY**. NO NEW FEATURES ACCEPTED!
 
 <!--- Provide a general summary of your changes in the Title above -->
